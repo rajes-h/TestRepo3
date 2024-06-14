@@ -1,4 +1,4 @@
 line1 ---------master modify
-line2
+line2 -------Bug1 modify
 line3
 line4
